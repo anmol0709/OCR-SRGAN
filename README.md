@@ -5,6 +5,7 @@ https://drive.google.com/a/gapp.nthu.edu.tw/uc?id=0BxRIhBA0x8lHNDJFVjJEQnZtcmc&e
 
 Run code using $python3 runall.py
 
-#The pretrained model was coded using previous versions of tensorflow and dlib so i was not able
+#The pretrained model i used for super resolution was coded using previous versions of tensorflow and dlib so i was not able
 to run it to obtain enhanced images.
-otherwise the code is complete 
+#Otherwise the code is complete with taking images as input.
+#The SRGAN model outputs the enhanced images in  '/results/images'
